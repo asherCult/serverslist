@@ -4,9 +4,9 @@
     <id>2f860f5e-4429-448f-ae89-d29de5c69625</id>
     <name>Test Server 1</name>
     <description>This is a fake EOR server to test things with.</description>
-    <emu>ACE</emu>
     <server_host>127.0.0.1</server_host>
     <server_port>9000</server_port>
+    <server_type>EOR-ACE</server_type>
     <type>PvE</type>
     <client_type>1</client_type>
     <status>Development</status>
