@@ -6,8 +6,8 @@
     <description>This is a fake EOR server to test things with.</description>
     <server_host>127.0.0.1</server_host>
     <server_port>9000</server_port>
-    <server_type>EOR-ACE</server_type>
-    <type>PvE</type>
+    <server_type>3</server_type>
+    <pvp>false</pvp>
     <client_type>1</client_type>
     <status>Development</status>
     <website_url>https://fakeurl.com/fakeLocation</website_url>
