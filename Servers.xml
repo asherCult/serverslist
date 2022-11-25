@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ArrayOfServerItem>  
+<ArrayOfServerItem> 
+  <ServerItem>
+    <id>2f860f5e-4429-448f-ae89-d29de5c69625</id>
+    <name>Test Server 1</name>
+    <description>This is a fake EOR server to test things with.</description>
+    <emu>ACE</emu>
+    <server_host>127.0.0.1</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <client_type>1</client_type>
+    <status>Development</status>
+    <website_url>https://fakeurl.com/fakeLocation</website_url>
+    <discord_url>https://discord.gg/fakeLink</discord_url>
+    <server_icon>icons8-spartan-helmet-64.png</server_icon>
+  </ServerItem>
   <ServerItem>
     <id>de13e822-ad7a-432c-80ae-79f8493686bd</id>
     <name>Infinite Frosthaven</name>
