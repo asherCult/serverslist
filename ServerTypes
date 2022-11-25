@@ -1,24 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ServerTypes>
   <ServerType>
+    <Id>1</Id>
     <Name>Classic-ACE</Name>
     <Client>Classic</Client>
     <Connection>ACE</Connection>
     <Description>An ACE server running with classic content</Description>
   </ServerType>
   <ServerType>
+    <Id>2</Id>
     <Name>Classic-GDLE</Name>
     <Client>Classic</Client>
     <Connection>GDLE</Connection>
     <Description>A GDLE server running with classic content</Description>
   </ServerType>
   <ServerType>
+    <Id>3</Id>
     <Name>EOR-ACE</Name>
     <Client>EOR</Client>
     <Connection>ACE</Connection>
     <Description>An ACE server running with End of Retail content</Description>
   </ServerType>
   <ServerType>
+    <Id>4</Id>
     <Name>EOR-GDLE</Name>
     <Client>EOR</Client>
     <Connection>GDLE</Connection>
