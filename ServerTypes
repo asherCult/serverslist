@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ServerTypes>
+  <ServerType>
+    <Name>Classic-ACE</Name>
+    <Client>Classic</Client>
+    <Connection>ACE</Connection>
+    <Description>An ACE server running with classic content</Description>
+  </ServerType>
+  <ServerType>
+    <Name>Classic-GDLE</Name>
+    <Client>Classic</Client>
+    <Connection>GDLE</Connection>
+    <Description>A GDLE server running with classic content</Description>
+  </ServerType>
+  <ServerType>
+    <Name>EOR-ACE</Name>
+    <Client>EOR</Client>
+    <Connection>ACE</Connection>
+    <Description>An ACE server running with End of Retail content</Description>
+  </ServerType>
+  <ServerType>
+    <Name>EOR-GDLE</Name>
+    <Client>EOR</Client>
+    <Connection>GDLE</Connection>
+    <Description>A GDLE server running with End of Retail content</Description>
+  </ServerType>
+</Clients>
