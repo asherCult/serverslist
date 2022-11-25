@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ArrayOfServerItem>
-    <ServerItem>
+<ArrayOfServerItem>  
+  <ServerItem>
     <id>de13e822-ad7a-432c-80ae-79f8493686bd</id>
     <name>Infinite Frosthaven</name>
-    <description>Active play rewarded! Earn permanent account-wide increased XP% from completing quests. No level cap. Magic learned from looted scrolls only. Custom content. </description>
+    <description>Active play rewarded! Earn permanent account-wide increased XP% from completing quests. No level cap. Magic learned from looted scrolls only. Custom content.</description>
     <emu>ACE</emu>
     <server_host>ifh.ddns.net</server_host>
     <server_port>9000</server_port>
@@ -192,7 +192,7 @@
     <website_url></website_url>
     <discord_url>https://discord.gg/f9dhQR7H9K</discord_url>
   </ServerItem>
-    <ServerItem>
+  <ServerItem>
     <id>26E6CB36-567E-4079-A5DF-9C5E818A1F7F</id>
     <name>ACPrime</name>
     <description>A PvE 'no grinding' group of players.</description>
@@ -207,7 +207,7 @@
   <ServerItem>
     <id>0D516A4A-14A4-4570-ADD7-95F83AF0246F</id>
     <name>Jellocull</name>
-    <description>A PVE Server to mimic retail and later add custom content. </description>
+    <description>A PVE Server to mimic retail and later add custom content.</description>
     <emu>ACE</emu>
     <server_host>ac.jellocull.com</server_host>
     <server_port>9000</server_port>
@@ -219,7 +219,7 @@
   <ServerItem>
     <id>159e672d-4062-424c-9575-60ba94ae490c</id>
     <name>IsparAC</name>
-    <description>RETAIL / ACE / UCM OK / 3 MAX CONCURRENT SESSIONS PER IP </description>
+    <description>RETAIL / ACE / UCM OK / 3 MAX CONCURRENT SESSIONS PER IP</description>
     <emu>ACE</emu>
     <server_host>ispar.net</server_host>
     <server_port>9000</server_port>
@@ -228,7 +228,7 @@
     <website_url></website_url>
     <discord_url>https://discord.gg/X8YUAPftXQ</discord_url>
   </ServerItem>
-   <ServerItem>
+  <ServerItem>
     <id>26D70BC9-78E9-4DDC-BCFF-7D5B36F6AC17</id>
     <name>GDLE Test</name>
     <description>Test server for Reefcull and Harvestbud servers. Only online for testing purposes.</description>
