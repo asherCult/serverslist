@@ -1,19 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ArrayOfServerItem> 
-  <ServerItem>
-    <id>2f860f5e-4429-448f-ae89-d29de5c69625</id>
-    <name>Test Server 1</name>
-    <description>This is a fake EOR server to test things with.</description>
-    <server_host>127.0.0.1</server_host>
-    <server_port>9000</server_port>
-    <server_type>3</server_type>
-    <pvp>false</pvp>
-    <status>Development</status>
-    <website_url>https://fakeurl.com/fakeLocation</website_url>
-    <discord_url>https://discord.gg/fakeLink</discord_url>
-    <server_icon>icons8-spartan-helmet-64.png</server_icon>
-  </ServerItem>
-  <ServerItem>
+<Servers>  
+  <Server>
     <id>de13e822-ad7a-432c-80ae-79f8493686bd</id>
     <name>Infinite Frosthaven</name>
     <description>Active play rewarded! Earn permanent account-wide increased XP% from completing quests. No level cap. Magic learned from looted scrolls only. Custom content.</description>
@@ -24,8 +11,8 @@
     <status>Development</status>
     <website_url></website_url>
     <discord_url>https://discord.gg/zdQVP7bmjC</discord_url>
-  </ServerItem>
-  <ServerItem>
+  </Server>
+  <Server>
     <id>ea2c553a-11a8-4e9c-a96a-5d32e57c3143</id>
     <name>FrostfACE</name>
     <description>New accounts include lvl 275 starter characters. Retail character restoration also supported.</description>
@@ -36,8 +23,8 @@
     <status>Development</status>
     <website_url></website_url>
     <discord_url></discord_url>
-  </ServerItem>
-  <ServerItem>
+  </Server>
+  <Server>
     <id>3c431416-a5dc-4c15-9d9d-3262b64ed4e0</id>
     <name>Drunkenfell</name>
     <description>A PvE server that will resemble end-of-retail with some modifications.</description>
@@ -48,8 +35,8 @@
     <status></status>
     <website_url></website_url>
     <discord_url>https://discord.gg/tHEe7QU</discord_url>
-  </ServerItem>
-  <ServerItem>
+  </Server>
+  <Server>
     <id>a7502ac9-0cec-4caf-b81c-b3eb40a4689a</id>
     <name>Reefcull</name>
     <description>A PVE Server thats goal is to mimic end of game retail.</description>
@@ -60,8 +47,8 @@
     <status></status>
     <website_url></website_url>
     <discord_url>https://discord.com/jd3dEJf</discord_url>
-  </ServerItem>
-  <ServerItem>
+  </Server>
+  <Server>
     <id>394C58D0-885D-466B-B17F-D7E0B96FE3E2</id>
     <name>Seedsow</name>
     <description>A PVE Dark Majesty server must use classic AC .dats</description>
@@ -72,8 +59,8 @@
     <status></status>
     <website_url></website_url>
     <discord_url>https://goo.gl/mUEu6g</discord_url>
-  </ServerItem>
-  <ServerItem>
+  </Server>
+  <Server>
     <id>EEA962C0-CF9F-481E-9736-0EB058ACC1D8</id>
     <name>Snowreap</name>
     <description>A PVP Dark Majesty server must use classic AC .dats</description>
@@ -84,8 +71,8 @@
     <status></status>
     <website_url></website_url>
     <discord_url>https://goo.gl/mUEu6g</discord_url>
-  </ServerItem>
-  <ServerItem>
+  </Server>
+  <Server>
     <id>689438de-0109-4a01-9d2b-d47c0b2bc0e9</id>
     <name>Levistras</name>
     <description>A 100% Botting-Free PvE Server! Open access! 2 account limit</description>
@@ -96,8 +83,8 @@
     <status></status>
     <website_url></website_url>
     <discord_url>https://discord.gg/TtkcWbv</discord_url>
-  </ServerItem>
-  <ServerItem>
+  </Server>
+  <Server>
     <id>451008a9-d83f-41c9-b4c5-836988e15d93</id>
     <name>Wynterhaven</name>
     <description>Custom content server with high level areas and conveniences.</description>
@@ -108,8 +95,8 @@
     <status>Stable</status>
     <website_url></website_url>
     <discord_url>https://discord.gg/uWUgNv2yDP</discord_url>
-  </ServerItem>
-  <ServerItem>
+  </Server>
+  <Server>
     <id>26d9ec3d-9fbf-4fda-95f9-8d87e005ae3a</id>
     <name>Coldeve</name>
     <description>A PVE AC Server evolving to provide a end of retail experience running ACEmulator.</description>
@@ -120,8 +107,8 @@
     <status>Stable</status>
     <website_url></website_url>
     <discord_url>https://discord.gg/nUR4PHe</discord_url>
-  </ServerItem>
-  <ServerItem>
+  </Server>
+  <Server>
     <id>b3dd2b22-4292-4b52-9099-8c570e87b1ab</id>
     <name>Thistlecrown</name>
     <description>Everyone welcome! 3 account limit. Recreation of TD.</description>
@@ -132,8 +119,8 @@
     <status>Stable</status>
     <website_url></website_url>
     <discord_url>https://discord.gg/uhZ3hn7</discord_url>
-  </ServerItem>
-  <ServerItem>
+  </Server>
+  <Server>
     <id>9D17CE44-7DB5-40C1-B7BB-A01C9DE21D00</id>
     <name>AChard</name>
     <description>ACE EOR PVP Server/Custom PK Content/PK Kill Rankings</description>
@@ -144,8 +131,8 @@
     <status>Stable</status>
     <website_url>http://a-chard.ddns.net/</website_url>
     <discord_url>https://discord.gg/gmHfqt2J2D</discord_url>
-  </ServerItem>
-  <ServerItem>
+  </Server>
+  <Server>
     <id>A14543EC-91B1-40D5-A9DE-F25806A0BFF7</id>
     <name>FunkyTown</name>
     <description>Retail with a little bit of Funky</description>
@@ -156,8 +143,8 @@
     <status>Stable</status>
     <website_url>https://funkytownac.com</website_url>
     <discord_url>https://discord.gg/HqHjHB3R97</discord_url>
-  </ServerItem>
-  <ServerItem>
+  </Server>
+  <Server>
     <id>bb791cc4-05c2-49ee-8473-9ab547cefce7</id>
     <name>Frostcull</name>
     <description>NO LEVEL/ATTRIBUTE CAP! 10x XP/Luminance, 25x Drop Rate, Quest Timers Reduced By 90%!</description>
@@ -168,8 +155,8 @@
     <status>Stable</status>
     <website_url></website_url>
     <discord_url>https://discord.gg/RQF7HgEZn4</discord_url>
-  </ServerItem> 
-  <ServerItem>
+  </Server> 
+  <Server>
     <id>71eb9232-d22c-421b-a6ca-7b8c54821573</id>
     <name>asheron4fun.com</name>
     <description>A PVE ACE server with End of Retail + easy mode content.</description>
@@ -180,8 +167,8 @@
     <status>Stable</status>
     <website_url>https://www.asheron4fun.com/</website_url>
     <discord_url>https://discord.gg/afnQNXj</discord_url>
-  </ServerItem>
-  <ServerItem>
+  </Server>
+  <Server>
     <id>7d1eba44-5b6f-417c-948d-2607d6f54bcc</id>
     <name>Duskfall</name>
     <description>No Lvl Cap/Skill Cap/PvP-PvE/Custom Content/10x Xp/5x Lum/3x Drops.(2 Accounts at once limit)</description>
@@ -192,8 +179,8 @@
     <status>Stable</status>
     <website_url></website_url>
     <discord_url>https://discord.gg/jH7uYyF8gp</discord_url>
-  </ServerItem>
-  <ServerItem>
+  </Server>
+  <Server>
     <id>24146524-64c8-4088-8423-ef7741679844</id>
     <name>Harvestpain</name>
     <description>A PVE ACE server with a End of Retail experience. 5 account limit with botting allowed.</description>
@@ -204,8 +191,8 @@
     <status>Stable</status>
     <website_url></website_url>
     <discord_url>https://discord.gg/f9dhQR7H9K</discord_url>
-  </ServerItem>
-  <ServerItem>
+  </Server>
+  <Server>
     <id>26E6CB36-567E-4079-A5DF-9C5E818A1F7F</id>
     <name>ACPrime</name>
     <description>A PvE 'no grinding' group of players.</description>
@@ -216,8 +203,8 @@
     <status></status>
     <website_url></website_url>
     <discord_url>https://discord.gg/VSFtYXN3v7</discord_url>
-  </ServerItem>
-  <ServerItem>
+  </Server>
+  <Server>
     <id>0D516A4A-14A4-4570-ADD7-95F83AF0246F</id>
     <name>Jellocull</name>
     <description>A PVE Server to mimic retail and later add custom content.</description>
@@ -228,8 +215,8 @@
     <status>Stable</status>
     <website_url></website_url>
     <discord_url>https://discord.gg/snv52pX</discord_url>
-  </ServerItem>  
-  <ServerItem>
+  </Server>  
+  <Server>
     <id>159e672d-4062-424c-9575-60ba94ae490c</id>
     <name>IsparAC</name>
     <description>RETAIL / ACE / UCM OK / 3 MAX CONCURRENT SESSIONS PER IP</description>
@@ -240,8 +227,8 @@
     <status>Stable</status>
     <website_url></website_url>
     <discord_url>https://discord.gg/X8YUAPftXQ</discord_url>
-  </ServerItem>
-  <ServerItem>
+  </Server>
+  <Server>
     <id>26D70BC9-78E9-4DDC-BCFF-7D5B36F6AC17</id>
     <name>GDLE Test</name>
     <description>Test server for Reefcull and Harvestbud servers. Only online for testing purposes.</description>
@@ -252,8 +239,8 @@
     <status></status>
     <website_url></website_url>
     <discord_url>https://discord.gg/jd3dEJf</discord_url>
-  </ServerItem>
-  <ServerItem>
+  </Server>
+  <Server>
     <id>84eb66f2-8a16-49e4-aaae-00f104464fb6</id>
     <name>Morgentau</name>
     <description>A PVE server with some server side portal bots.  Max. 7 accounts per IP.</description>
@@ -264,8 +251,8 @@
     <status>Development</status>
     <website_url>https://forum.morgentau.online/</website_url>
     <discord_url>https://discord.gg/gJCYTr5fPU</discord_url>
-  </ServerItem>
-  <ServerItem>
+  </Server>
+  <Server>
     <id>d5ff0630-42f0-11ec-81d3-0242ac130003</id>
     <name>Podtide</name>
     <description>Where the PvP happens</description>
@@ -276,8 +263,8 @@
     <status>Stable</status>
     <website_url>http://podtide.com/</website_url>
     <discord_url>https://discord.gg/MQEfzwTddG</discord_url>
-  </ServerItem>
-  <ServerItem>
+  </Server>
+  <Server>
     <id>42f43f32-a3ce-401c-a62c-9214e725c892</id>
     <name>Morntide</name>
     <description>PvE 3-account limit end-of-retail server.</description>
@@ -288,8 +275,8 @@
     <status>Stable</status>
     <website_url>https://morntide.ac</website_url>
     <discord_url>https://discord.gg/7Gcc2XFqhJ</discord_url>
-  </ServerItem>
-  <ServerItem>
+  </Server>
+  <Server>
     <id>94bb861b-5ca2-4105-bc1b-d41519301780</id>
     <name>Modclaim</name>
     <description>A PVE AC Server evolving to provide a end of retail experience running ACEmulator with addition of "persistent arrows".</description>
@@ -300,8 +287,8 @@
     <status>Stable</status>
     <website_url></website_url>
     <discord_url></discord_url>
-  </ServerItem>
-  <ServerItem>
+  </Server>
+  <Server>
     <id>0f5cd135-9d46-48d4-abc1-b59f4cde901f</id>
     <name>Derptide</name>
     <description>EOR server that pushes custom content and Qol changes, All quest weapons have been upgraded to be useful, and usable. No quest item will EVER be better than lootgen, Live events, Ongoing story arcs. and TONS of tailoring options.</description>
@@ -312,8 +299,8 @@
     <status>Stable</status>
     <website_url>https://derptide.net</website_url>
     <discord_url>https://discord.gg/6GwNEVvu7v</discord_url>
-  </ServerItem>
-  <ServerItem>
+  </Server>
+  <Server>
     <id>f023fbf9-caab-4745-8205-81c4d7c061ad</id>
     <name>Harvestbud</name>
     <description>Retail experience. 3 account max</description>
@@ -324,8 +311,8 @@
     <status></status>
     <website_url>gdleac.com</website_url>
     <discord_url>https://discord.gg/jd3dEJf</discord_url>
-  </ServerItem>
-  <ServerItem>
+  </Server>
+  <Server>
     <id>ce4ae843-7afa-48ea-82bb-21b25301e1c9</id>
     <name>Hightide</name>
     <description>PvP Testing grounds</description>
@@ -336,8 +323,8 @@
     <status></status>
     <website_url>gdleac.com</website_url>
     <discord_url></discord_url>
-  </ServerItem>
-  <ServerItem>
+  </Server>
+  <Server>
     <id>0bc928ba-7f03-4052-8436-33fc6612add5</id>
     <name>Shadowland</name>
     <description>A PVE Server thats goal is to mimic end of game retail.  No max on accounts or sessions.</description>
@@ -348,8 +335,8 @@
     <status>Stable</status>
     <website_url>WIP</website_url>
     <discord_url>https://discord.gg/XwMFx9Jty2</discord_url>
-  </ServerItem>
-  <ServerItem>
+  </Server>
+  <Server>
     <id>b1918d04-1cb3-45c9-84c9-d5b2490b610b</id>
     <name>DarkSide-PK</name>
     <description>*NEW* 3x PVP Server,Content,Updates,Quest,Dungeons. Dedicated US Server</description>
@@ -360,8 +347,8 @@
     <status>Stable</status>
     <website_url>WIP</website_url>
     <discord_url>WIP</discord_url>
-  </ServerItem>
-  <ServerItem>
+  </Server>
+  <Server>
     <id>a96497f0-16cf-4e04-b8f1-192346aef061</id>
     <name>Fathomless Refuge</name>
     <description>Permanent XP/Lum Bonus for questing, Unlimited Levels and Attributes, Cloak and Pet Tinkering, Magic only obtained via questing, Quest Reward updates, Offline XP Gains</description>
@@ -372,8 +359,8 @@
     <status>Stable</status>
     <website_url></website_url>
     <discord_url>https://discord.gg/C9Tu5yUYn2</discord_url>
-  </ServerItem>
-  <ServerItem>
+  </Server>
+  <Server>
     <id>aae6ada4-b22a-4efe-8aba-ef0f7e5a4a93</id>
     <name>ACE Classic PvP</name>
     <description>A PvP server that replicates the era of retail Feb 2005 Infiltration patch</description>
@@ -384,8 +371,8 @@
     <status>Stable</status>
     <website_url></website_url>
     <discord_url>https://discord.gg/GbAtfwNwKj</discord_url>
-  </ServerItem>
-  <ServerItem>
+  </Server>
+  <Server>
     <id>89dbfb9c-507b-43fc-ad88-f2b8f3401f1d</id>
     <name>ACE Classic PvE</name>
     <description>A PvE server that replicates the era of retail Feb 2005 Infiltration patch</description>
@@ -396,5 +383,5 @@
     <status>Stable</status>
     <website_url></website_url>
     <discord_url>https://discord.gg/DEnCWW4N4p</discord_url>
-  </ServerItem>
-</ArrayOfServerItem>
+  </Server>
+</Servers>
